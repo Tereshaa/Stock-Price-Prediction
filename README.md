@@ -31,3 +31,6 @@ Open the Kaggle notebook for step-by-step analysis.
 Review the code and comments for a detailed understanding of the data preprocessing and modeling process.
 
 Execute the notebooks to generate predictions for the 'Close' and 'Strategy' columns.
+
+## Contributors
+- Urvashi Bhargava
